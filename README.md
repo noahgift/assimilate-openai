@@ -1,5 +1,6 @@
 # assimilate-openai
-these code examples
+
+An extensive collection of tutorials and live streams on [OpenAi](https://openai.com/)
 
 ## Day 2:  
 
